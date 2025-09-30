@@ -16,6 +16,6 @@ public class GroupProjectCPIT251 {
      */
     public static void main(String[] args) {
                System.out.println("hi there, i am jumana");
-
+               System.out.println("hi there, can you see me ? i am jumana");
     }    
 }
